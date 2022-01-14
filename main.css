@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(206, 206, 240);
+   
+}
+.nav{
+    margin-left: 70%;
+    padding: 2%;
+}
+.img{
+    text-align:center;
+    margin: 0px;
+    padding:0px ;
+    border-radius: 100%;
+
+
+}
+
+*{
+    box-sizing: border-box;
+
+}
+.column{
+    float:left;
+    width: 50%;
+}
+.row{
+    margin-top: 5%;
+    margin-left: 10%;
+}
+.h{
+    text-align: center;
+}
+.yy{
+    text-align: center;
+}
+
+
